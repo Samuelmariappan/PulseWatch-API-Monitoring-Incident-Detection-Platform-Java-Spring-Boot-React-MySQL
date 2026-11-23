@@ -111,23 +111,3 @@ Try out PulseWatch exclusively [here!](https://pulsewatch-led1.onrender.com/)
 
 API Documentation can be viewed live [here](https://pulsewatch-led1.onrender.com/api/docs)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Developer
-
-**Mohammed**
-- Twitter: [@haaoi_dev](https://x.com/haaoi_dev)
-- GitHub: [@hamood268](https://github.com/hamood268)
-- PayPal: [Support](https://paypal.me/Mohammed0268)
